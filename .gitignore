@@ -403,3 +403,10 @@ image.ub
 system-default.dtb
 test_output/
 sdcard.img
+
+# AI tool local files
+.claude/
+.aider*
+.cursor/
+*.cursorrules
+.copilot/
